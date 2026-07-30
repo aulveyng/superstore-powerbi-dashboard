@@ -134,19 +134,19 @@ Standard Class accounts for the highest sales volume, indicating that customers 
 
 ### Sales Performance Overview
 
-![Overview](screenshots/overview.png)
+![Overview](Superstore-Screenshots/overview.png)
 
 ---
 
 ### Performance Analysis
 
-![Comparison](screenshots/comparison.png)
+![Comparison](Superstore-Screenshots/comparison.png)
 
 ---
 
 ### Executive Insights
 
-![Executive Summary](screenshots/executive-summary.png)
+![Executive Summary](Superstore-Screenshots/executive-summary.png)
 
 ---
 
